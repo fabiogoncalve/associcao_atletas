@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/socios.cpp
+stdlib.h
+-
+stdio.h
+-
+string
+-
+functional
+-
+iostream
+-
+list
+-
+memory
+-
+utility
+-
+socios.h
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/socios.h
+fstream
+-
+sstream
+-
+istream
+-
+
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/socios.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+functional
+-
+iostream
+-
+list
+-
+memory
+-
+utility
+-
+fstream
+-
+sstream
+-
+istream
+-
+

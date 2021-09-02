@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/executavel_app.dir/socios.cpp.o CMakeFiles/executavel_app.dir/aplicacao.cpp.o  -o executavel_app 

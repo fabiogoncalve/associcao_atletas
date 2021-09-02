@@ -1,0 +1,3 @@
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/fmg_1/OneDrive/Área de Trabalho/Projecto c++/Fabio2021/Associcao_Atletas/build/CMakeFiles/executavel_app.dir
